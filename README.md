@@ -18,3 +18,10 @@
 개발기간<br/>
 
 2023.09.20 ~ 2023.10.23
+
+Screenshots<br/>
+===========
+
+<div>
+  <img src="https://user-images.githubusercontent.com/127908405/277640202-ce65547f-ee30-4895-8e02-ca94cce2bc70.png">
+</div>
